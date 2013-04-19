@@ -1,0 +1,27 @@
+.title {font-size: 15px;
+	font-family:times;
+	color:black;
+	text-align: center;
+	position: fixed;
+	}
+
+#self_photo {
+	width:640px;
+	margin:0 auto;
+	}
+
+.menu{
+	font-family:helvetica;
+	font-size: 10px;
+	text-align: center;}
+
+#profile_content{
+	font-family:helvetica;
+	font-size: 10px;
+	text-align: center;}	
+
+#menu_works{
+	font-family:helvetica;
+	font-size: 10px;
+	text-align: center;
+
