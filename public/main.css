@@ -62,4 +62,15 @@
   color:#ccc;
 }
 
+.works_content{
+  font-family:"tahoma";
+  font-size:12px;
+  color:#cccccc;
+  text-align:center;
+}
+
+.works_img{
+width:640px;
+margin:0 auto;
+}
 
