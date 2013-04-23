@@ -16,6 +16,7 @@
 #self_photo {
   width:640px;
 	margin:0 auto;
+  padding: 20px;
 	}
 
 #menu{
@@ -36,6 +37,7 @@
 .hyperlink{
   text-decoration:none;
   color:#999;
+  text-decoration:underline;
 }
 
 #profile_content{
@@ -60,6 +62,8 @@
 .hyperlink_works{
   text-decoration:none;
   color:#ccc;
+  text-decoration:underline;
+  letter-spacing:1px;
 }
 
 .works_content{
@@ -75,6 +79,17 @@ margin:0 auto;
 }
 
 #favorite_content{
+  padding: 20px;
+}
+
+#favorite_content_01{
+	font-family:"tahoma";
+	font-size: 12px;
+  color: #999;
+	text-align: center;
+}
+
+#favorite_content_02{
 	font-family:"tahoma";
 	font-size: 12px;
   color: #999;
